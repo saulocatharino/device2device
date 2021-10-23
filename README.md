@@ -6,7 +6,7 @@ Sound (unidirectional) communication between two devices.
 python3 controlador.py <br>
 Availaible commands: cima,baixo,direita,esquerda,trás,frente, canal
 <br>
-To change the channel = canal <int> (min 10 - max 200)
+To change the channel = canal < int > (min 10 - max 200)
 <br>
 <br>
 python3 receptor.py
